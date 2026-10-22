@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - LANG1
+  - LANG ZENKAKUHANKAKU
   - ESCAPE
   - H
   - J
@@ -38,10 +38,10 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: LANG5, h: '3'}
+  - {t: INT MUHENKAN, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: LANGUAGE 4, h: '1'}
-  - BACKSPACE
+  - {t: INT KANA, h: '1'}
+  - {t: BACKSPACE, h: '1'}
   - ENTER
   - DEL
   '1':
@@ -60,7 +60,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LANG2
+  - INT HENKAN
   - LANGUAGE 2
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
