@@ -16,19 +16,19 @@ layers:
   - D
   - F
   - G
-  - Sft+Gui+S
-  - B
+  - LANG1
+  - ESCAPE
   - H
   - J
   - K
   - L
-  - ''''
+  - ;
   - LEFT SHIFT
   - Z
   - X
   - {t: C, h: '6'}
-  - {t: V, h: '6'}
-  - {t: B, h: '5'}
+  - {t: V, h: '5'}
+  - {t: B, h: '4'}
   - '-'
   - N
   - M
@@ -38,9 +38,9 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: INT HENKAN, h: '3'}
+  - {t: LANG5, h: '3'}
   - {t: SPACE, h: '2'}
-  - {t: INT MUHENKAN, h: '1'}
+  - {t: LANGUAGE 4, h: '1'}
   - BACKSPACE
   - ENTER
   - DEL
@@ -60,7 +60,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LANG2
   - LANGUAGE 2
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -204,7 +204,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - .
   - KP 0
   - KP 1
@@ -247,8 +247,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
